@@ -1,0 +1,285 @@
+{
+    "storeInfo":{
+        "title":"Mario Kart 7 Mods",
+        "author":"Koopatoad64",
+        "url":"https://github.com/SuperSaiyajinStackZ/Stack-Store/raw/master/unistore/Stack-Store.unistore",
+        "file":"mk7mods.unistore",
+        "sheet":"Stack-Store.t3x",
+        "sheetURL":"https://github.com/SuperSaiyajinStackZ/Stack-Store/raw/master/unistore/Stack-Store.t3x",
+        "description":"Made to download Mario Kart 7 mods anywhere as long as you have WiFi!",
+        "version":3,
+        "revision":4
+    },
+    "storeContent":[
+        {
+            "info":{
+                "title":"Skeleton Mario",
+                "author":"Koopatoad64",
+                "version":"v1.0.0",
+                "category":[
+                    "utility"
+                ],
+                "console":[
+                    "3DS"
+                ],
+                "description":"Skeleton Mario joins the race!",
+                "license":"gpl-3.0",
+                "icon_index":0,
+                "sheet_index":0,
+                "last_updated":"2020-07-02 at 14:03 (UTC)"
+            },
+            "Download Skeleton Mario":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://github.com/JII060/modsthruuniversalupd/raw/main/skeletonmariov2%20(2).zip",
+                    "output":"sdmc:/skeletonmario.zip"
+                },
+                {
+                    "type":"extractFile",
+                    "file":"/skeletonmario.zip",
+                    "input":"Skeleton_Mario.chpack",
+                    "output":"/CTGP-7/MyStuff/Characters/Skeleton_Mario.chpack"
+                },
+                {
+                    "type":"deleteFile",
+                    "file":"sdmc:/skeletonmario.zip",
+                    "message":"Deleting unneeded file..."
+                }
+            ]
+        },
+        {
+            "info":{
+                "title":"Pumpkin Mario",
+                "author":"Koopatoad64",
+                "version":"v1.0.0",
+                "category":[
+                    "utility"
+                ],
+                "console":[
+                    "3DS"
+                ],
+                "description":"Pumpkin Mario joins the race!",
+                "license":"gpl-3.0",
+                "icon_index":0,
+                "sheet_index":0,
+                "last_updated":"2020-07-02 at 14:03 (UTC)"
+            },
+            "Download Pumpkin Mario":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://gamebanana.com/dl/1166156",
+                    "output":"sdmc:/pumpkinmario.zip"
+                },
+                {
+                    "type":"extractFile",
+                    "file":"/pumpkinmario.zip",
+                    "input":"Pumpkin_Mario.chpack",
+                    "output":"/CTGP-7/MyStuff/Characters/Pumpkin_Mario.chpack"
+                },
+                {
+                    "type":"deleteFile",
+                    "file":"sdmc:/pumpkinmario.zip",
+                    "message":"Deleting unneeded file..."
+                }
+            ]
+        },
+        {
+            "info":{
+                "title":"Vivian",
+                "author":"Necrozm, Yasioen, TZ Gaming, Appy_Appy_Appy_, Roivere",
+                "version":"v1.0.0",
+                "category":[
+                    "utility"
+                ],
+                "console":[
+                    "3DS"
+                ],
+                "description":"Vivian joins Mario kart 7 as a celebration of the release of The Thousand Year Door remake!",
+                "license":"gpl-3.0",
+                "icon_index":0,
+                "sheet_index":0,
+                "last_updated":"2020-07-02 at 14:03 (UTC)"
+            },
+            "Download Vivian":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://gamebanana.com/dl/1200759",
+                    "output":"sdmc:/vivian.zip"
+                },
+                {
+                    "type":"extractFile",
+                    "file":"/vivian.zip",
+                    "input":"Vivian.chpack",
+                    "output":"/CTGP-7/MyStuff/Characters/Vivian.chpack"
+                },
+                {
+                    "type":"deleteFile",
+                    "file":"sdmc:/vivian.zip",
+                    "message":"Deleting unneeded file..."
+                }
+            ]
+        },
+        {
+            "info":{
+                "title":"Paratroopa",
+                "author":"UltraWario",
+                "version":"v1.0.0",
+                "category":[
+                    "utility"
+                ],
+                "console":[
+                    "3DS"
+                ],
+                "description":"Paratroopa soars into CTGP-7!  With his trusty wings, there's no stopping this flying Koopa from winning!",
+                "license":"gpl-3.0",
+                "icon_index":0,
+                "sheet_index":0,
+                "last_updated":"2020-07-02 at 14:03 (UTC)"
+            },
+            "Download Paratroopa":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://gamebanana.com/dl/1203610",
+                    "output":"sdmc:/paratroopa.zip"
+                },
+                {
+                    "type":"extractFile",
+                    "file":"/paratroopa.zip",
+                    "input":"",
+                    "output":"/CTGP-7/MyStuff/Characters/"
+                },
+                {
+                    "type":"deleteFile",
+                    "file":"sdmc:/paratroopa.zip",
+                    "message":"Deleting unneeded file..."
+                }
+            ]
+        },
+        {
+            "info":{
+                "title":"Deku Link",
+                "author":"Nick Rich",
+                "version":"v1.0.0",
+                "category":[
+                    "utility"
+                ],
+                "console":[
+                    "3DS"
+                ],
+                "description":"Deku Link joins the race!",
+                "license":"gpl-3.0",
+                "icon_index":0,
+                "sheet_index":0,
+                "last_updated":"2020-07-02 at 14:03 (UTC)"
+            },
+            "Download Deku Link [3DS]":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://gamebanana.com/dl/1189381",
+                    "output":"sdmc:/dekulink.zip"
+                },
+                {
+                    "type":"extractFile",
+                    "file":"/dekulink.zip",
+                    "input":"",
+                    "output":"/CTGP-7/MyStuff/Characters/"
+                },
+                {
+                    "type":"deleteFile",
+                    "file":"sdmc:/dekulink.zip",
+                    "message":"Deleting unneeded file..."
+                }
+            ],
+            "Download Deku Link [N64]":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://gamebanana.com/dl/1171634",
+                    "output":"sdmc:/dekulink.zip"
+                },
+                {
+                    "type":"extractFile",
+                    "file":"/dekulink.zip",
+                    "input":"",
+                    "output":"/CTGP-7/MyStuff/Characters/"
+                },
+                {
+                    "type":"deleteFile",
+                    "file":"sdmc:/dekulink.zip",
+                    "message":"Deleting unneeded file..."
+                }
+            ]
+        },
+        {
+            "info":{
+                "title":"Black Mage",
+                "author":"MKWMods, Yasioen",
+                "version":"v1.0.0",
+                "category":[
+                    "utility"
+                ],
+                "console":[
+                    "3DS"
+                ],
+                "description":"Black Mage joins the race!",
+                "license":"gpl-3.0",
+                "icon_index":0,
+                "sheet_index":0,
+                "last_updated":"2020-07-02 at 14:03 (UTC)"
+            },
+            "Download Black Mage":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://gamebanana.com/dl/1170966",
+                    "output":"sdmc:/blackmage.zip"
+                },
+                {
+                    "type":"extractFile",
+                    "file":"/blackmage.zip",
+                    "input":"",
+                    "output":"/CTGP-7/MyStuff/Characters/"
+                },
+                {
+                    "type":"deleteFile",
+                    "file":"sdmc:/blackmage.zip",
+                    "message":"Deleting unneeded file..."
+                }
+            ]
+        },
+        {
+            "info":{
+                "title":"Ice and Fire Bro",
+                "author":"Nick Rich",
+                "version":"v1.0.0",
+                "category":[
+                    "utility"
+                ],
+                "console":[
+                    "3DS"
+                ],
+                "description":"Ice and Fire Bro join the race!",
+                "license":"gpl-3.0",
+                "icon_index":0,
+                "sheet_index":0,
+                "last_updated":"2020-07-02 at 14:03 (UTC)"
+            },
+            "Download Ice and Fire Bro":[
+                {
+                    "type":"downloadFile",
+                    "file":"https://gamebanana.com/dl/1203123",
+                    "output":"sdmc:/icefirebro.zip"
+                },
+                {
+                    "type":"extractFile",
+                    "file":"/icefirebro.zip",
+                    "input":"",
+                    "output":"/CTGP-7/MyStuff/Characters/"
+                },
+                {
+                    "type":"deleteFile",
+                    "file":"sdmc:/icefirebro.zip",
+                    "message":"Deleting unneeded file..."
+                }
+            ]
+        }
+    ]
+}
