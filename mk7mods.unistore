@@ -2,13 +2,13 @@
     "storeInfo":{
         "title":"Mario Kart 7 Mods",
         "author":"Koopatoad64",
-        "url":"https://github.com/SuperSaiyajinStackZ/Stack-Store/raw/master/unistore/Stack-Store.unistore",
+        "url":"https://github.com/JII060/modsthruuniversalupd/raw/main/mk7mods.unistore",
         "file":"mk7mods.unistore",
-        "sheet":"Stack-Store.t3x",
-        "sheetURL":"https://github.com/SuperSaiyajinStackZ/Stack-Store/raw/master/unistore/Stack-Store.t3x",
+        "sheet":"mk7mods.t3x",
+        "sheetURL":"https://github.com/JII060/modsthruuniversalupd/raw/main/mk7mods.t3x",
         "description":"Made to download Mario Kart 7 mods anywhere as long as you have WiFi!",
         "version":3,
-        "revision":4
+        "revision":1
     },
     "storeContent":[
         {
