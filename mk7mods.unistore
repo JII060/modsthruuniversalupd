@@ -31,7 +31,7 @@
             "Download Skeleton Mario":[
                 {
                     "type":"downloadFile",
-                    "file":"https://github.com/JII060/modsthruuniversalupd/raw/main/skeletonmariov2%20(2).zip",
+                    "file":"https://gamebanana.com/dl/1166130",
                     "output":"sdmc:/skeletonmario.zip"
                 },
                 {
