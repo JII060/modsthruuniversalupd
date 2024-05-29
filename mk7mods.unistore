@@ -145,7 +145,7 @@
                 {
                     "type":"extractFile",
                     "file":"/paratroopa.zip",
-                    "input":"",
+                    "input":"/Paratroopa (CTGP-7)/",
                     "output":"/CTGP-7/MyStuff/Characters/"
                 },
                 {
